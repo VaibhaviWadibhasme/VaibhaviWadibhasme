@@ -1,4 +1,4 @@
-# 💫Greetings from the digital realm! I'm Vaibhavi, a web developer on a mission. 
+# 💫Greetings from the digital realm! I'm Vaibhavi, A Web developer on a mission. 
 🌐 Code Craftsman <br>🚀 Computer Engineering Student <br>🎓 Navigating the tech universe, <br> 💻 one algorithm at a time. 
 
 
